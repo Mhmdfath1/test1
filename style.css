@@ -1,0 +1,116 @@
+body {
+
+  background-image: url(../img/1.png);
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  font-family: 'Uchen', serif;
+
+}
+
+div .nav {
+  list-style: none;
+}
+
+.logo {
+  width: 40px;
+  margin-top: -445px;
+  display: block;
+}
+
+.about {
+  text-decoration: none;
+  color: #000000;
+  border-radius: 7px;
+  padding: 4px 5px 5px 5px;
+}
+
+.delivery {
+  text-decoration: none;
+  color: #000000;
+  border-radius: 7px;
+  padding: 4px 5px 5px 5px;
+}
+
+.Location {
+  text-decoration: none;
+  color: #000000;
+  border-radius: 7px;
+  padding: 4px 5px 5px 5px;
+}
+
+.contacts {
+  text-decoration: none;
+  color: #000000;
+  border-radius: 7px;
+  padding: 4px 5px 5px 5px;
+}
+
+div .nav li {
+  display: inline-block;
+  margin: 0px 0px 0px 40px;
+}
+
+.nav {
+  margin: 50px 0px 0px 100px;
+}
+
+.phone {
+  display: block;
+  color: #FFB384;
+  margin-top: -15px;
+  margin-left: 50px;
+  font-size: 500px;
+}
+
+
+.header-address {
+  margin-left: 100px;
+}
+
+.special-food-address {
+  padding: 0px;
+  margin-left: 25px;
+  margin-top: 110px;
+  color: #FF3600;
+  font-size: 20px;
+}
+
+.dreem-food-address {
+  padding: 0px;
+  margin-top: -35px;
+  font-size: 40px;
+}
+
+.for-seafood-address {
+  font-size: 40px;
+  margin-top: -20px;
+
+} 
+
+
+.paragraph-address {
+  margin-top: -20px;
+
+}
+
+.paragraph-address-line-two {
+  margin-top: -5px;
+}
+
+input {
+  padding: 10px 60px;
+  margin-top: 50px;
+  border-radius: 24px;
+  color: #FFFFFF;
+  background-color: #000000;
+  font-size: 20px;
+  box-shadow: 0px 15px 50px #00000070;
+}
+
+.sushi-logo {
+  
+  width: 130px;
+  margin-top: 456px;
+  margin-left: 130px;
+}
+
